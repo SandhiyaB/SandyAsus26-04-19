@@ -1,0 +1,60 @@
+.verticalTableHeader {
+  text-align:center;
+/*  white-space:nowrap; */
+  transform-origin:50% 50%;
+  transform: rotate(0deg);
+  border: 1px solid #ccc;
+  
+
+}
+
+.vertical-text {
+transform: rotate(  0deg);
+transform-origin: left top 0;
+}
+
+tr.spaceUnder>th {
+  padding-bottom: 15px;
+}
+
+.BasicPay{
+  width:60px;
+}
+
+td.payslipdata{
+  padding: 0px!important;
+  margin-top: 0px!important;
+  margin-bottom: 0px!important;
+
+  
+}
+
+.jeeva{
+  background-color:#96eff3;
+  margin-top: -5px!important;
+  margin-bottom: -3px!important;
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 0px;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  resize: vertical;
+}
+
+input[type=text]{
+  margin-top: -5px!important;
+  margin-bottom: -3px!important;
+  padding: 10px;
+}
+.inputreduction{
+  background-color:#ef7272;
+
+}
+.inputallowences{
+  background-color:#a3f5a3;
+
+}
+.spaceUnder{
+  padding: 10px;
+}
